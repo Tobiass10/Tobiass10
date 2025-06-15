@@ -8,6 +8,7 @@
 ## 🧠 Sobre mí
 
 Soy una persona proactiva, con muchas ganas de aprender y crecer profesionalmente. Me gusta resolver problemas complejos y optimizar procesos técnicos mediante herramientas modernas y metodologías prácticas.
+
 Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infraestructura, Consultor de IBM Maximo.
 
 
