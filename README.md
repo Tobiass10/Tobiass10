@@ -8,7 +8,6 @@
 ## 🧠 Sobre mí
 
 Soy una persona proactiva, con muchas ganas de aprender y crecer profesionalmente. Me gusta resolver problemas complejos y optimizar procesos técnicos mediante herramientas modernas y metodologías prácticas.
-
 Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infraestructura, Consultor de IBM Maximo.
 
 
@@ -19,7 +18,7 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 - 🖥️ **Lenguajes:** Python, JavaScript, HTML, CSS  
 - 🗄️ **Bases de Datos:** SQL Server, MySQL, PostgreSQL, Cassandra, MongoDB  
 - 📦 **Virtualización y Contenedores:** Docker, VMWare, VirtualBox, Proxmox  
-- 🛠️ **Infraestructura y Redes:** TCP/IP, SMB, FTP, VPN, SSH, Telnet  
+- 🛠️ **Infraestructura y Redes:** TCP/IP, SMB, FTP, VPN, SSH, Telnet, PuTTy, Bitwise, LPR/LPD, Hirenz, Achronis, Rufus,
 - ☁️ **Software & Plataformas:** IBM Maximo, PaperCut MF/HIVE, ServiceNow, SAP, Office365  
 - 🐧 **Sistemas Operativos:** Windows, Windows Server, Linux(Ubuntu, Pop!_OS)
 
