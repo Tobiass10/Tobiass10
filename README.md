@@ -27,7 +27,8 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 
 ## 📌 Proyectos Destacados
 
-- 📇 [Sistema de Contactos en Python] (https://github.com/Tobiass10/Practicas-Python/tree/main/TPO%20Programacion%201)
+- 📇 [Sistema de Contactos en Python](https://github.com/Tobiass10/Practicas-Python/tree/main/TPO%20Programacion%201)
+
   Contactos con campos dinámicos, almacenamiento en archivos y menú interactivo (CLI).
 
 ## 📜 Certificaciones & Cursos
