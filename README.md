@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Tobias Fernandez Sarso
 
 🎓 Estudiante de 3° Año de Ingeniería Informática en UADE  
-💼 Consultor Técnico en IBM Maximo en PRIUX SRL  
+💼 Consultor Técnico de IBM Maximo y Autodesk Construction Cloud en PRIUX SRL  
 🔧 Apasionado por la tecnología, la automatización de procesos y el soporte técnico de alto nivel  
 🌍 Ubicación: CABA, Argentina
 
