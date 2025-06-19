@@ -32,7 +32,8 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
   Contactos con campos dinámicos, almacenamiento en archivos y menú interactivo (CLI).
 
 ## 📜 Certificaciones & Cursos
-
+- Pre-Construction for Implementation Certification
+- Pre-Construction for Technical Certification
 - Maximo Application Suite – Sales & Technical Foundations  
 - "#SeProgramar" – Argentina Programa  
 - Ingeniería de Requerimientos  
