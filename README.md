@@ -28,9 +28,11 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 ## 📌 Proyectos Destacados
 
 - 📇 [Sistema de Contactos en Python](https://github.com/Tobiass10/Practicas-Python/tree/main/TPO%20Programacion%201)
-- 📇 [Proyecto de Ciencia de Datos](https://github.com/17sTomy/ciencia-de-datos)
-
   Contactos con campos dinámicos, almacenamiento en archivos y menú interactivo (CLI).
+
+- 📇 [Proyecto de Ciencia de Datos](https://github.com/17sTomy/ciencia-de-datos)
+Prediccion de Compra y Venta de un Activo en tiempo real.
+
 
 ## 📜 Certificaciones & Cursos
 - Pre-Construction for Implementation Certification
