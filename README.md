@@ -22,7 +22,7 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 - 🛠️ **Infraestructura y Redes:** TCP/IP, SMB, FTP, VPN, SSH, Telnet, PuTTy, Bitwise, LPR/LPD, Hirenz, Achronis, Rufus,
 - ☁️ **Software & Plataformas:** IBM Maximo, PaperCut MF/HIVE, ServiceNow, SAP, Office365  
 - 🐧 **Sistemas Operativos:** Windows, Windows Server, Linux(Ubuntu, Pop!_OS)
-
+- 🛠️ **Mantenimiento y Reparacion de Equipos:** Workstations,Notebooks
 ---
 
 ## 📌 Proyectos Destacados
