@@ -37,7 +37,8 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 ## 📜 Certificaciones & Cursos
 - Pre-Construction for Implementation Certification
 - Pre-Construction for Technical Certification
-- Maximo Application Suite – Sales & Technical Foundations  
+- Maximo Application Suite – Sales & Technical Foundations
+- Maximo Application Suite Technical – Sales Intermediate
 - "#SeProgramar" – Argentina Programa  
 - Ingeniería de Requerimientos  
 - Inducción a Mesa de Ayuda YPF
