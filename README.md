@@ -16,7 +16,7 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 
 ## 🚀 Tecnologías y Herramientas
 
-- 🖥️ **Lenguajes:** Python,Java,JavaScript, HTML, CSS  
+- 🖥️ **Lenguajes:** Python, Java, JavaScript, HTML, CSS  
 - 🗄️ **Bases de Datos:** SQL Server, MySQL, PostgreSQL, Cassandra, MongoDB  
 - 📦 **Virtualización y Contenedores:** Docker, VMWare, VirtualBox, Proxmox  
 - 🛠️ **Infraestructura y Redes:** TCP/IP, SMB, FTP, VPN, SSH, Telnet, PuTTy, Bitwise, LPR/LPD, Hirenz, Achronis, Rufus,
