@@ -17,7 +17,8 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 ## 🚀 Tecnologías y Herramientas
 
 - 🖥️ **Lenguajes:** Python, Java, JavaScript, HTML, CSS  
-- 🗄️ **Bases de Datos:** SQL Server, MySQL, PostgreSQL, Cassandra, MongoDB  
+- 🗄️ **Bases de Datos:** SQL Server, MySQL, PostgreSQL, Cassandra, MongoDB
+- 🧠 **IA**: Claude , ChatGPT, Gemini
 - 📦 **Virtualización y Contenedores:** Docker, VMWare, VirtualBox, Proxmox  
 - 🛠️ **Infraestructura y Redes:** TCP/IP, SMB, FTP, VPN, SSH, Telnet, PuTTy, Bitwise, LPR/LPD, Hirenz, Achronis, Rufus,
 - ☁️ **Software & Plataformas:** IBM Maximo, PaperCut MF/HIVE, ServiceNow, SAP, Office365  
@@ -32,6 +33,9 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 
 - 📇 [Proyecto de Ciencia de Datos](https://github.com/17sTomy/ciencia-de-datos)
   - Prediccion de Compra y Venta de un Activo en tiempo real.
+
+- 📇 [Proyecto Aplicación Web para CEAR (Empresa Gestora y Aseora de Seguros y Siniestros)(https://github.com/tobias-devs/cear-siniestros)
+  - Aplicación Web para Gestion de Polizas de Seguros con CRUD de Usuarios y Polizas
 
 
 ## 📜 Certificaciones & Cursos
