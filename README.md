@@ -34,7 +34,7 @@ Además de mi carrera universitaria, cuento con experiencia en Soporte L2, Infra
 - 📇 [Proyecto de Ciencia de Datos](https://github.com/17sTomy/ciencia-de-datos)
   - Prediccion de Compra y Venta de un Activo en tiempo real.
 
-- 📇 [Proyecto Aplicación Web para CEAR (Empresa Gestora y Aseora de Seguros y Siniestros)](https://github.com/tobias-devs/cear-siniestros)
+- 📇 [Proyecto Aplicación Web para CEAR (Empresa Gestora y Asesora de Seguros y Siniestros)](https://github.com/tobias-devs/cear-siniestros)
   - Aplicación Web para Gestion de Polizas de Seguros con CRUD de Usuarios y Polizas
 
 
